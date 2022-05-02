@@ -1,0 +1,14 @@
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\bin\Debug\ColorGradientTestProject.exe.config
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\MainWindow.g.cs
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\App.g.cs
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject_MarkupCompile.cache
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject_MarkupCompile.lref
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\bin\Debug\ColorGradientTestProject.exe
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\bin\Debug\ColorGradientTestProject.pdb
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\MainWindow.baml
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.g.resources
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.Properties.Resources.resources
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.csproj.GenerateResource.Cache
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.exe
+c:\users\sonya\documents\visual studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.pdb
+C:\Users\Sonya\Documents\Visual Studio 2015\Projects\ColorGradientTestProject\obj\Debug\ColorGradientTestProject.csprojResolveAssemblyReference.cache
